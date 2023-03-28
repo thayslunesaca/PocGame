@@ -41,7 +41,7 @@ Run away from problems with this addictive arcade run game and learn about bourn
 - Buffs Object: Map Speed Decrease, Life Increase, Protection agains Debuffs, Credits;
 - Debuff Object: Map Speed Increase, Debuff Object Multiplaction (2x, 3x, 4x), Gamelife Decrease, Credits Decrease, Inverted Control, Frezze Control, Blind Effect, much more. (This game neeed to be hard to be realistic);
 - In-game Shop: Buy clothes, Skins and Backgrounds with credit, special itens like potions to survive the runs;
-- User Scoreboard: Features based on player collections (Credit Earned, skins, backgrounds, etc.);
+- User Profile n' Scoreboard: Features based on player collections (Credit Earned, skins, backgrounds, etc.);
 - Actions: Jump and Crouch with simple buttons and prompts;
 
 ## Development Deadlines
