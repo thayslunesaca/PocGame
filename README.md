@@ -12,7 +12,7 @@ Run away from problems with this addictive arcade run game and learn about bourn
 - [@talesvalente](https://www.github.com/talesvalente)
 - [@thayslunesaca](https://www.github.com/thayslunesaca)
 - [@hanahsantana6](https://www.github.com/hanahsantana6)
-- [@](https://www.github.com/)
+- [@milenaalcantara](https://www.github.com/milenaalcantara)
 - [@](https://www.github.com/)
 
 ## Minimum Viable Product (MvP)
