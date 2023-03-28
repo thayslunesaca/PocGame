@@ -13,7 +13,7 @@ Run away from problems with this addictive arcade run game and learn about bourn
 - [@thayslunesaca](https://www.github.com/thayslunesaca)
 - [@hanahsantana6](https://www.github.com/hanahsantana6)
 - [@milenaalcantara](https://www.github.com/milenaalcantara)
-- [@](https://www.github.com/)
+- [@IsraelCarv](https://www.github.com/israelCarv)
 
 ## Minimum Viable Product (MvP)
 - A infinity runner gameplay with few steps:
