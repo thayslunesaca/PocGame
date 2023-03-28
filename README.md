@@ -12,7 +12,7 @@ Run away from problems with this addictive arcade run game and learn about bourn
 - [@talesvalente](https://www.github.com/talesvalente)
 - [@thayslunesaca](https://www.github.com/thayslunesaca)
 - [@hanahsantana6](https://www.github.com/hanahsantana6)
-- [@]((https://www.github.com/)
+- [@](https://www.github.com/)
 - [@](https://www.github.com/)
 
 ## Minimum Viable Product (MvP)
@@ -24,45 +24,25 @@ Run away from problems with this addictive arcade run game and learn about bourn
 4. Collect BUFF OBJECTS that will appear to your in your running to increase your life
 4. Win the match by surviving the race with at least 1 life.
 5. On the end of a match you will receive informations about Bornout, what you have reach to far, what your avoid and good pratices to always be safe !
+6. Have Fun
 
 ## Game Cicle
-- Challenge: Battle against AI_PLAYER and win the matchs to Level Up
-- Mechanics: Read, Plan and Act with simple buttons and prompts on screen; A victory will increase your power, give credits for shop, unlock new cards and unique features
-- Rewards: Power UP, Credits for shop, new cards and features; Credits can be used in shop to unlock features, unique avatars and create unique cards based on real images uploaded by the user (Should agree with Privacy Policy and Terms of Services)
+- Challenge: Run against OBSTACLES (also know as DEBUFF OBJECTES) to win the match
+- Mechanics: Jump and Crouch; Collect Buff Objects to increase your gamelife and your chances to win; Buff objects will grant a small amount of in-game credit to use in shop.
+- Rewards: Knowlgeg about bournout, how to avoid it and credits to customize your gameplay experience (characters and backgrounds).
 
 ## Game Mechanics & Rules
-- Endless Battle Card
-- Pull random cards to fight against your enemy AI
-- Attack the enemy AI to destroy they cards and take his gamelife or defend yourself against him to prevent your gamelife loses.
-- Every card destroyed by your hand will increase your gamelife based on the difference between your card's ATTACK ATTRIBUTE and enemy card's DEF ATTRIBUTE.
-- Your or AI_PLAYER cards will be destroyed if the Attacker Power (ATK ATTRIBUTE) was great than Defense power (DEF ATTRIBUTE) of the opponent.
-- After any match, the winner will be prompted to keep your card for the next round or convert it in gamelife (a % of ATK-DEF attribute)
-- If the attacker destroy a Card in DEF MODE, the loser will not lose your gamelife
-- If the Player attempts to attack a Card in ATTACK MODE and his DEF ATRIBUTE is great than the Attacker's ATK ATRIBUTE, the Attacker will be destroyed and lose gamelife points ( Diff between Attacked DEF ATTRIBUTE and Attacker ATK ATTRIBUTE)
-- Win the match the player who drops the opponent life to zero.
-- The winner (takes it all - abba) will improve your scoreboard, gain EXP for Level UP, gain credits and unlock new cards everytime him win a match (drop enemy life to zero)
-- When User lost a match (game life become zero) he will lose cards too, drop exp, scoreboard and credits.
+- Endless Run Game with 3 stages
+- Jump and Crouch
+- Collect or Avoid in-game objects (BUFF & DEBUFF)
 
 #### Game Components & Actions
-- Player: A real user or AI based on ChatGPT Sourcer (Always be Hard)
-- Cards: A representation of player power
-- Card Attributes: Atk, Def
-- Card Instances: Attack Position, Defense Position
-- Scoreboard: Features based on player score (best card, best lucky, etc)
-- Actions: Read, Plan, Act with simple buttons and prompts
-
-#### Nexts Improves & Updates
-- Scoreboard (Antecipated by Gabi)
-- Powerfull pulls based on Scoreboard (Antecipated by Gabi)
-
-#### Far Far Away Next Improves & Updates
-- Special Effects cards
-- Trap Effect cards
-- Personal Card Deck Build
-- User Profile Content
-
-#### To infinity and Beyond Improves & Updates
-- Multiplayer (MMO RPG)
+- Player: A real user;
+- Buffs Object: Map Speed Decrease, Life Increase, Protection agains Debuffs, Credits;
+- Debuff Object: Map Speed Increase, Debuff Object Multiplaction (2x, 3x, 4x), Gamelife Decrease, Credits Decrease, Inverted Control, Frezze Control, Blind Effect, much more. (This game neeed to be hard to be realistic);
+- In-game Shop: Buy clothes, Skins and Backgrounds with credit, special itens like potions to survive the runs;
+- User Scoreboard: Features based on player collections (Credit Earned, skins, backgrounds, etc.);
+- Actions: Jump and Crouch with simple buttons and prompts;
 
 ## Development Deadlines
 
