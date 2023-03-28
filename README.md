@@ -20,8 +20,8 @@ Run away from problems with this addictive arcade run game and learn about bourn
 1. Control the basic moviment of your character by your touch ;
 2. Press the ARROW UP BUTTON on the bottom-right side to jump;
 3. Press the ARROW DOWN BUTTON on the bottom-left side to crouch;
-3. Avoid touch DEBUFF OBJECTS that will apper to your in your running. DEBUFF OBJECTS can bring many problems to your character;
-4. Collect BUFF OBJECTS that will appear to your in your running to increase your life
+3. Avoid touch DEBUFF OBJECTS that will apper to you in your running. DEBUFF OBJECTS can bring many problems to your character;
+4. Collect BUFF OBJECTS that will appear to you in your running to increase your life
 4. Win the match by surviving the race with at least 1 life.
 5. On the end of a match you will receive informations about Bornout, what you have reach to far, what your avoid and good pratices to always be safe !
 6. Have Fun
