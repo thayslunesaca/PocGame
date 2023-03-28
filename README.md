@@ -23,7 +23,7 @@ Run away from problems with this addictive arcade run game and learn about bourn
 3. Avoid touch DEBUFF OBJECTS that will apper to you in your running. DEBUFF OBJECTS can bring many problems to your character;
 4. Collect BUFF OBJECTS that will appear to you in your running to improve your character.
 4. Win the match by surviving the race with at least 1 life.
-5. On the end of a match you will receive informations about Bornout, what you have reached so far, what your avoid and good pratices to always be safe !
+5. On the end of a match you will receive informations about Bornout, what you have reached so far, what you have avoided and good pratices to always be safe; For the game mechanics you will receive credits to use in in-game shop to improve your nexts runnouts !
 6. Have Fun
 
 ## Game Cicle
