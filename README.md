@@ -38,8 +38,9 @@ Run away from problems with this addictive arcade run game and learn about bourn
 
 #### Game Components & Actions
 - Player: A real user;
-- Buffs Object: Map Speed Decrease, Life Increase, Protection agains Debuffs, Credits;
-- Debuff Object: Map Speed Increase, Debuff Object Multiplaction (2x, 3x, 4x), Gamelife Decrease, Credits Decrease, Inverted Control, Frezze Control, Blind Effect, much more. (This game neeed to be hard to be realistic);
+- Buffs Object: Map Speed Decrease, Life Increase, Protection agains Debuffs, Credits; Those objects will have a default icon with PLUS (+) IMG to indicates thats a Buff Object; Any buff object will have a description of what it is and will be showing on the end of the run.
+- Debuff Object: Map Speed Increase, Debuff Object Multiplaction (2x, 3x, 4x), Gamelife Decrease, Credits Decrease, Inverted Control, Frezze Control, Blind Effect, much more. (This game neeed to be hard to be realistic); Those objects will have a default icon with SUB (-) IMG to indicates thats a deBuff Object; Any buff object will have a description of what it is and will be showing on the end of the run.
+- The plot will be create based on player/user colletions on the run and will be shown on the end of the run.
 - In-game Shop: Buy clothes, Skins and Backgrounds with credit, special itens like potions to survive the runs;
 - User Profile n' Scoreboard: Features based on player collections (Credit Earned, skins, backgrounds, etc.);
 - Actions: Jump and Crouch with simple buttons and prompts;
